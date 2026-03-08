@@ -141,16 +141,5 @@ Total Reactive Power Loss:  197.3 Mvar
 
 Method 1 provides superior local voltage support at the endpoint. Method 2 achieves a more balanced improvement across the wider network and results in lower total system losses, making it the more efficient technical solution for the overall grid.
 
----
-
-## Key Conclusions
-
-**Proximity of reactive support matters.** Localized reactive compensation at the load center is the most effective way to correct severe voltage drops at remote buses.
-
-**Reactive reserve is critical.** A stable system requires generators to maintain reactive reserve. When generators operate at Qmax in the base case, the system has no capacity to respond to load growth, making it highly vulnerable to voltage collapse.
-
-**Trade-off between local voltage and system efficiency.** Shunt capacitors provide the best local voltage lift. Generator-side adjustments produce lower system losses but distribute the improvement more broadly rather than targeting the critical bus directly.
-
-**Var-starved network sensitivity.** In a reactive power limited network, even moderate load increases can produce disproportionately large voltage drops when no reactive reserve exists.
 
 
