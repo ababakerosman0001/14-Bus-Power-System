@@ -8,13 +8,7 @@ A comprehensive load flow analysis of the IEEE 14-Bus power system conducted usi
 **Software:** PowerWorld Simulator  
 **System Base:** 100 MVA, 132 kV  
 
----
 
-## Project Report
-
-The full project report is available in this repository:
-
-[Load_Flow_Analysis_IEEE_14_Bus.pdf](Load_Flow_Analysis_IEEE_14_Bus.pdf)
 
 ---
 
