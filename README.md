@@ -2,7 +2,7 @@
 
 A comprehensive load flow analysis of the IEEE 14-Bus power system conducted using PowerWorld Simulator. The study examines steady-state bus voltages, transmission line power flows, generator reactive power limits, and system losses under both base case and stressed operating conditions. Two voltage improvement techniques are applied and compared.
 
-**Author:** Ababaker Nazar Osman  
+
 **Course:** SKEE 3443 — Power System Analysis  
 **Institution:** Universiti Teknologi Malaysia  
 **Software:** PowerWorld Simulator  
@@ -159,12 +159,4 @@ Method 1 provides superior local voltage support at the endpoint. Method 2 achie
 
 **Var-starved network sensitivity.** In a reactive power limited network, even moderate load increases can produce disproportionately large voltage drops when no reactive reserve exists.
 
----
 
-## References
-
-IEEE 14-Bus Test System data. Power Systems Test Case Archive, University of Washington.
-
-A. J. Wood, B. F. Wollenberg, and G. B. Sheble, Power Generation, Operation and Control, 3rd ed., Wiley, 2013.
-
-P. Kundur, Power System Stability and Control, McGraw-Hill, 1994.
