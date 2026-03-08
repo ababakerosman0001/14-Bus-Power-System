@@ -4,7 +4,6 @@ A comprehensive load flow analysis of the IEEE 14-Bus power system conducted usi
 
 
 **Course:** SKEE 3443 — Power System Analysis  
-**Institution:** Universiti Teknologi Malaysia  
 **Software:** PowerWorld Simulator  
 **System Base:** 100 MVA, 132 kV  
 
